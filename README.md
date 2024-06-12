@@ -6,7 +6,7 @@ By using Nexa, you are agreeing to be bound by these Terms of Service. If you do
 
 ## 1. Eligibility and Registration
 
-To use Nexa, you must be at least 18 years old as required by [Google’s Gemini Terms of Service](https://ai.google.dev/gemini-api/terms). By accessing or using Nexa, you represent and warrant that you are at least 18 years of age. To access certain features of Nexa, you will need a valid Discord account, which also requires adherence to [Discord's Terms of Service](https://discord.com/terms).
+To use Nexa, you must be at least 13 years old or the minimum age required in your country to consent to use the Services. If you are under 18 you must have your parent or legal guardian’s permission to use the Services, as required by [OpenAI’s Terms of Use](https://openai.com/policies/terms-of-use/). By accessing or using Nexa, you represent and warrant that you are at least 18 years of age, or 13 with permission from a legal guardian. To access certain features of Nexa, you will need a valid Discord account, which also requires adherence to [Discord's Terms of Service](https://discord.com/terms).
 
 ## 2. Prohibited Content
 
